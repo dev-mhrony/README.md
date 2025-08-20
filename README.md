@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/kavindukaveesha?tab=followers">
+  <a href="https://github.com/dev-mhrony/?tab=followers">
     <img src="https://img.shields.io/github/followers/kavindukaveesha?logo=github&style=for-the-badge&color=00D451&labelColor=161B22&logoColor=white" alt="Followers" />
   </a>
   <a href="https://github.com/kavindukaveesha?tab=repositories">
