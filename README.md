@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Kavindu%20Kaveesha&fontSize=90&fontAlign=70&fontAlignY=35&fontColor=ffffff&animation=twinkling"/>
-</div>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D451&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full-Stack+Software+Engineer+%F0%9F%9A%80;Solutions+Architect+%F0%9F%8F%97%EF%B8%8F;Building+the+Future+with+Code+%F0%9F%92%BB;5%2B+Years+of+Innovation+%E2%9C%A8" alt="Typing Animation" />
