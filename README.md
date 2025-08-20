@@ -65,7 +65,7 @@ const dev_mhrony = new SoftwareEngineer();
 ### 🏆 Achievements & Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kavindukaveesha&theme=discord&no-frame=true&column=3&margin-w=5&margin-h=5&title=MultiLanguage,Repositories,Commits,PullRequest,Reviews,Issues" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dev-mhrony&theme=discord&no-frame=true&column=3&margin-w=5&margin-h=5&title=MultiLanguage,Repositories,Commits,PullRequest,Reviews,Issues" />
 </div>
 
 **🎯 Quick Stats:**
