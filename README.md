@@ -30,7 +30,7 @@ class SoftwareEngineer {
     this.name = "MH RONY";
     this.role = "Full-Stack Software Engineer";
     this.location = "Bogura, Bangladesh";
-    this.experience = "5+ years";
+    this.experience = "4+ years";
     this.passions = [
       "Clean Code Architecture",
       "Scalable Systems Design", 
@@ -70,7 +70,7 @@ const dev_mhrony = new SoftwareEngineer();
 
 **🎯 Quick Stats:**
 - 💼 **50+** Projects Completed
-- 🌟 **5+** Years Experience  
+- 🌟 **4+** Years Experience  
 - 🚀 **15+** Technologies Mastered
 - 🤝 **Open Source** Contributor
 - 📚 **Continuous** Learner
@@ -280,10 +280,10 @@ const dev_mhrony = new SoftwareEngineer();
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=kavindukaveesha&show_icons=true&theme=github_dark_green&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D451&text_color=58A6FF&icon_color=00D451&ring_color=00D451&fire_color=00D451" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=dev-mhrony&show_icons=true&theme=github_dark_green&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D451&text_color=58A6FF&icon_color=00D451&ring_color=00D451&fire_color=00D451" alt="GitHub Stats" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavindukaveesha&theme=github-dark-green&hide_border=true&background=0D1117&stroke=00D451&ring=00D451&fire=00D451&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=00D451&sideNums=00D451" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-mhrony&theme=github-dark-green&hide_border=true&background=0D1117&stroke=00D451&ring=00D451&fire=00D451&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=00D451&sideNums=00D451" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
@@ -295,10 +295,10 @@ const dev_mhrony = new SoftwareEngineer();
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindukaveesha&layout=donut&theme=github_dark_green&hide_border=true&bg_color=0D1117&title_color=00D451&text_color=58A6FF&langs_count=8&size_weight=0.5&count_weight=0.5" alt="Top Languages Donut" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mhrony&layout=donut&theme=github_dark_green&hide_border=true&bg_color=0D1117&title_color=00D451&text_color=58A6FF&langs_count=8&size_weight=0.5&count_weight=0.5" alt="Top Languages Donut" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindukaveesha&layout=compact&theme=github_dark_green&hide_border=true&bg_color=0D1117&title_color=00D451&text_color=58A6FF&langs_count=10" alt="Top Languages Compact" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mhrony&layout=compact&theme=github_dark_green&hide_border=true&bg_color=0D1117&title_color=00D451&text_color=58A6FF&langs_count=10" alt="Top Languages Compact" />
       </td>
     </tr>
   </table>
@@ -307,11 +307,11 @@ const dev_mhrony = new SoftwareEngineer();
 ### 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavindukaveesha&custom_title=Contribution%20Activity%20Graph&bg_color=0D1117&color=58A6FF&line=00D451&point=00D451&area_color=00D451&area=true&hide_border=true&theme=github-compact" width="100%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-mhrony&custom_title=Contribution%20Activity%20Graph&bg_color=0D1117&color=58A6FF&line=00D451&point=00D451&area_color=00D451&area=true&hide_border=true&theme=github-compact" width="100%" alt="Contribution Graph"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kavindukaveesha&theme=github_dark" width="100%" alt="Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-mhrony&theme=github_dark" width="100%" alt="Profile Summary"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -339,7 +339,7 @@ const dev_mhrony = new SoftwareEngineer();
             <li>📱 Cross-platform compatibility</li>
           </ul>
           <br>
-          <a href="https://github.com/kavindukaveesha/Medicine-managing-app">
+          <a href="https://github.com/dev-mhrony/Medicine-managing-app">
             <img src="https://img.shields.io/badge/View_Project-00D451?style=for-the-badge&logo=github&logoColor=white" />
           </a>
         </div>
@@ -362,7 +362,7 @@ const dev_mhrony = new SoftwareEngineer();
             <li>📊 Comprehensive analytics</li>
           </ul>
           <br>
-          <a href="https://github.com/kavindukaveesha/Cunstruction-Helper-Project-full">
+          <a href="https://github.com/dev-mhrony/Cunstruction-Helper-Project-full">
             <img src="https://img.shields.io/badge/View_Project-00D451?style=for-the-badge&logo=github&logoColor=white" />
           </a>
         </div>
@@ -387,7 +387,7 @@ const dev_mhrony = new SoftwareEngineer();
             <li>📡 RESTful API design</li>
           </ul>
           <br>
-          <a href="https://github.com/kavindukaveesha/Thaprobid-Auction-Website-API-">
+          <a href="https://github.com/dev-mhrony/Thaprobid-Auction-Website-API-">
             <img src="https://img.shields.io/badge/View_Project-00D451?style=for-the-badge&logo=github&logoColor=white" />
           </a>
         </div>
@@ -410,7 +410,7 @@ const dev_mhrony = new SoftwareEngineer();
             <li>📊 Reading analytics dashboard</li>
           </ul>
           <br>
-          <a href="https://github.com/kavindukaveesha/Social-Book-Network">
+          <a href="https://github.com/dev-mhrony/Social-Book-Network">
             <img src="https://img.shields.io/badge/View_Project-00D451?style=for-the-badge&logo=github&logoColor=white" />
           </a>
         </div>
@@ -421,7 +421,7 @@ const dev_mhrony = new SoftwareEngineer();
 
 <div align="center">
   <br>
-  <a href="https://github.com/kavindukaveesha?tab=repositories">
+  <a href="https://github.com/dev-mhrony?tab=repositories">
     <img src="https://img.shields.io/badge/View_All_Projects-00D451?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22" />
   </a>
 </div>
@@ -469,19 +469,19 @@ const dev_mhrony = new SoftwareEngineer();
 ## 📫 Let's Connect & Collaborate
 
 <div align="center">
-  <a href="https://linkedin.com/in/kavindukaveesha">
+  <a href="https://linkedin.com/in/dev-mhrony">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161B22" />
   </a>
-  <a href="mailto:contact@kavindukaveesha.com">
+<!--   <a href="mailto:contact@kavindukaveesha.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161B22" />
   </a>
   <a href="https://kavindukaveesha.com">
     <img src="https://img.shields.io/badge/Portfolio-00D451?style=for-the-badge&logo=About.me&logoColor=white&labelColor=161B22" />
-  </a>
-  <a href="https://twitter.com/kavindukaveesha">
+  </a> -->
+  <a href="https://twitter.com/dev-mhrony">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=161B22" />
   </a>
-  <a href="https://dev.to/kavindukaveesha">
+  <a href="https://dev.to/dev-mhrony">
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=161B22" />
   </a>
 </div>
@@ -518,5 +518,5 @@ const dev_mhrony = new SoftwareEngineer();
 </div>
 
 <div align="center">
-  <i>Made with ❤️ and lots of ☕ by <a href="https://github.com/kavindukaveesha">Kavindu Kaveesha</a></i>
+  <i>Made with ❤️ and lots of ☕ by <a href="https://github.com/dev-mhrony">MH RONY</a></i>
 </div>
