@@ -27,9 +27,9 @@
 ```typescript
 class SoftwareEngineer {
   constructor() {
-    this.name = "Kavindu Kaveesha";
+    this.name = "MH RONY";
     this.role = "Full-Stack Software Engineer";
-    this.location = "Sri Lanka 🇱🇰";
+    this.location = "Bogura, Bangladesh";
     this.experience = "5+ years";
     this.passions = [
       "Clean Code Architecture",
