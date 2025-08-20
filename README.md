@@ -8,7 +8,7 @@
   <a href="https://github.com/dev-mhrony/?tab=followers">
     <img src="https://img.shields.io/github/followers/kavindukaveesha?logo=github&style=for-the-badge&color=00D451&labelColor=161B22&logoColor=white" alt="Followers" />
   </a>
-  <a href="https://github.com/kavindukaveesha?tab=repositories">
+  <a href="https://github.com/dev-mhrony/?tab=repositories">
     <img src="https://img.shields.io/github/stars/kavindukaveesha?logo=github&style=for-the-badge&color=00D451&labelColor=161B22&logoColor=white" alt="Stars" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=kavindukaveesha&style=for-the-badge&color=00D451&label=Profile+Views&labelColor=161B22" alt="Profile Views" />
