@@ -56,7 +56,7 @@ class SoftwareEngineer {
   }
 }
 
-const kavindu = new SoftwareEngineer();
+const dev_mhrony = new SoftwareEngineer();
 ```
 
 </td>
