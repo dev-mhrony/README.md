@@ -3,7 +3,8 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D451&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full-Stack+Software+Engineer+%F0%9F%9A%80;Solutions+Architect+%F0%9F%8F%97%EF%B8%8F;Building+the+Future+with+Code+%F0%9F%92%BB;5%2B+Years+of+Innovation+%E2%9C%A8" alt="Typing Animation" />
 </div>
-
+<br>
+<br>
 <div align="center">
   <a href="https://github.com/dev-mhrony?tab=followers">
     <img src="https://img.shields.io/github/followers/dev-mhrony?logo=github&style=for-the-badge&color=00D451&labelColor=161B22&logoColor=white" alt="Followers" />
